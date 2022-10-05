@@ -9,3 +9,4 @@ for j in range(1, r):
     print("*", end = " ")
   x = x - 1
   print("\n")
+print("robert")
